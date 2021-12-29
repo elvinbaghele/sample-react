@@ -1,4 +1,4 @@
-# KreativBricks-Backend
+# Backend
 
 
 [Branching Strategy](https://github.com/Tekvology/KreativBricks-Backend/blob/main/docs/branching%20strategy.md)
