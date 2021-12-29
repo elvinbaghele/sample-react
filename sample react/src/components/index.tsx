@@ -1,0 +1,1 @@
+export { Login, ChangePassword,Dashboard } from './lazy-components';
