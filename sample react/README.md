@@ -4,4 +4,4 @@
 
 [Developer Guidelines](https://github.com/elvinbaghele/sample-react-native-_node_ts-Frontend-Backend/blob/main/sample%20react/docs/Architecture/Developer%20Guidelines.md)
 
-[Branching Strategy](https://github.com/elvinbaghele/sample-react-native-_node_ts-Frontend-Backend/blob/main/sample%20react/docs/branching%20strategy.md)
+[Branching Strategy](https://github.com/elvinbaghele/sample-react-native-_node_ts-Frontend-Backend/blob/main/sample-backend-node-ts/docs/branching%20strategy.md)
